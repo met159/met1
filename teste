@@ -1,0 +1,5 @@
+<?php
+  for($jenzura=0;$jenzura<50;$jenzura++){
+    echo"$jenzura";
+  }
+?>
